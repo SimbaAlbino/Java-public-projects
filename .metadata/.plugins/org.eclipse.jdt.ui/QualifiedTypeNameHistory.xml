@@ -6,11 +6,14 @@
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="chess.ChessPosition"/>
-    <fullyQualifiedTypeName name="application.UI"/>
     <fullyQualifiedTypeName name="boardgame.BoardException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="boardgame.Position"/>
     <fullyQualifiedTypeName name="chess.ChessPiece"/>
     <fullyQualifiedTypeName name="chess.ChessException"/>
     <fullyQualifiedTypeName name="chess.ChessMatch"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="application.UI"/>
 </qualifiedTypeNameHistroy>
